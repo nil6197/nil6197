@@ -13,5 +13,4 @@ Let me tell you a few things about myself,
       Languages: Java ,Python, PHP, Scala, R
       Project Management: Jira and Azure board.
 
-- ⚡ Fun fact: 
-
+- ⚡ Fun fact: I'm a developer turned into trainer and an enterpreneur, Only candidate in Pune University to have a Year Drop as well as a University topper.
