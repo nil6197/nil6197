@@ -10,7 +10,7 @@ Let me tell you a few things about myself,
       Clouds: AWS, Azure.
       Data Platform: Hadoop, Cloudera Data Platform.
       OS: Linux/Unix, Windows server.
-      Languages: Java ,Python, PHP.
+      Languages: Java ,Python, PHP, Scala, R
       Project Management: Jira and Azure board.
 - ⚡ Fun fact: 
 
