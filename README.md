@@ -13,7 +13,5 @@ Let me tell you a few things about myself,
       Languages: Java ,Python, PHP, Scala, R
       Project Management: Jira and Azure board.
 
-
-- dskudjflsd
 - ⚡ Fun fact: 
 
